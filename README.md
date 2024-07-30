@@ -23,11 +23,11 @@ Make sure to configure your S3 Cloud credentials in `appsettings.json`.
 
 ```json
 {
-"S3": {
-"AccessKey": "YOUR_ACCESS_KEY",
-"SecretKey": "YOUR_SECRET_KEY",
-"RegionEndpoint": "YOUR_S3_ENDPOINT"
-},
+   "S3": {
+      "AccessKey": "YOUR_ACCESS_KEY",
+      "SecretKey": "YOUR_SECRET_KEY",
+      "RegionEndpoint": "YOUR_S3_ENDPOINT"
+   }
 }
 ```
 
