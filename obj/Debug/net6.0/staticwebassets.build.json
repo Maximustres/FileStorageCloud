@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bG8kKrHDL5sEGd/moaRfurthOpgZgeFs6Aot1X74GEI=",
+  "Source": "FileStorageMicroService",
+  "BasePath": "_content/FileStorageMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
